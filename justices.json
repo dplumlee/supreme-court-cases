@@ -229,7 +229,7 @@
             "succeeded_by": ""
         }
     },
-    "John G. Roberts Junior": {
+    "John G. Roberts, Jr.": {
         "name": "John G. Roberts Junior",
         "justice_link": "https://www.oyez.org/justices/john_g_roberts_jr",
         "wikipedia_link": "https://en.wikipedia.org/wiki/John_Roberts",
@@ -566,7 +566,7 @@
             "year": 2006
         },
         "person": {
-            "gender": "male",
+            "gender": "female",
             "date_of_birth": "Mar 26, 1930",
             "place_of_birth": "El Paso, TX",
             "date_of_death": "",

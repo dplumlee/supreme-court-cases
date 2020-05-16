@@ -1,0 +1,26 @@
+{
+  "name": "supreme-court-cases",
+  "version": "1.0.0",
+  "description": "The included case details and justice details were mostly compiled from oyez and wikipedia. Some corrections were made by hand.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricWiener/supreme-court-cases.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricWiener/supreme-court-cases/issues"
+  },
+  "homepage": "https://github.com/EricWiener/supreme-court-cases#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "glob": "^7.1.6",
+    "prettier": "^2.0.5"
+  }
+}
